@@ -1,5 +1,6 @@
 # Tarumi
 ===
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/IcaliaLabs/tarumi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Tarumi is a super simple library written in Ruby to interact with [Slack](https://slack.com/) webhooks. It was written by [Abraham Kuri](https://github.com/kurenn) from [Icalia Labs](https://github.com/IcaliaLabs).
 
